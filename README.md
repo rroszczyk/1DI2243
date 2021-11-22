@@ -2,3 +2,5 @@
 
 
 [Plik z obrazami do analizy](https://colab.research.google.com/github/rroszczyk/1DI2243/blob/main/src/1DI2243_L1.ipynb)
+[Przekształcenia afiniczne](https://colab.research.google.com/github/rroszczyk/1DI2243/blob/main/src/przekszta%C5%82cenia_afiniczne_1.ipynb)
+[Punkty charakterystyczne](https://colab.research.google.com/github/rroszczyk/1DI2243/blob/main/src/1DI2243L1.ipynb)
